@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "78170475120",
+    "project_id": "fitverseemailpassauth",
+    "storage_bucket": "fitverseemailpassauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78170475120:android:df6c1b526073ddc2adc2b5",
+        "android_client_info": {
+          "package_name": "com.example.sampleproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78170475120-1i7nm028tm9rdkq352pb1f1fidokig4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sampleproject",
+            "certificate_hash": "fc86e2360534ceacd2d51e93e2f8ee52df8802cb"
+          }
+        },
+        {
+          "client_id": "78170475120-p1pmvihfflgg5p0cmdet2k3hgqnd19rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABzpX_zzJ1fHaek_FwvNdJ3iXAGp_ANiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78170475120-p1pmvihfflgg5p0cmdet2k3hgqnd19rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
