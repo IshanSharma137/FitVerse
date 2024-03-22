@@ -15,11 +15,6 @@ A personalized app has been prepared for user to keep track of their records. Da
 
 ## Screenshots
 
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-0b12b4f858.gif)
+![App Screen![fitcrunch](https://github.com/IshanSharma137/FitVerse/assets/102872728/2201b214-4ee3-4c24-9432-b9453c051cda)
 
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-9f98e5ad60.gif)
-
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-d755cb7ae2.gif)
-
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-ab5d67480a.gif)
 
